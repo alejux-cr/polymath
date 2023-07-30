@@ -1,5 +1,5 @@
 Polymath 
-This is a LangChain application that shares relevant data about any subject the user wants to learn about.
+This is a LangChain application that provides business models development assistance about any type of business the user wants to learn about.
 
 # Dependencies
 - Python 3.11
@@ -7,4 +7,4 @@ This is a LangChain application that shares relevant data about any subject the 
 - LangChain 0.0.240
 
 ## Set up env
-Create a virtual environment. For this project, Anaconda was used to manage the venv.
+Create a virtual environment. For this project, Anaconda was used to manage the virtual env.
